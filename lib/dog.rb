@@ -4,3 +4,4 @@ class Person
   end
   
 end
+fido = Dog.new("Fido","Pung")
